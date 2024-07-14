@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexrosado5
 - 🌱 I’m currently learning python
-- 📫 How to reach me: 18rosadoale@ipm.cat
+- 📫 How to reach me: alexrosadorodriguez5@gmail.com
 - ⚡ Fun fact: I'm the best
 
 <!---
